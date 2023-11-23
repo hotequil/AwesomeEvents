@@ -1,6 +1,6 @@
 @AwesomeEvents_HostAddress = http://localhost:5015
 
-GET {{AwesomeEvents_HostAddress}}/weatherforecast/
+GET {{AwesomeEvents_HostAddress}}/events/
 Accept: application/json
 
 ###
