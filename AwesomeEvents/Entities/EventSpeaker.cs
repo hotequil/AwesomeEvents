@@ -7,4 +7,5 @@ public class EventSpeaker
     public string TalkTitle { get; set; }
     public string TalkDescription { get; set; }
     public string LinkedInUrl { get; set; }
+    public Guid EventId { get; set; }
 }
